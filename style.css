@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+
+  h1, #one, #two, #three, #four, #five {
+    border: 1px solid red;
+    padding: 15px;
+    margin: 15px;
+  }
+
+
+  #one {
+width: 200px;
+float: left;
+height: 300px;
+overflow: auto;
+  }
+
+  #two {
+width: 200px;
+float: right;
+height: 300px;
+overflow: auto;
+  }
+
+  #three {
+width: 200px;
+float: left;
+height: 300px;
+overflow: auto;
+  }
+  #four {
+clear: both;
+  }
+
+  #five {
+clear: both;
+  }
